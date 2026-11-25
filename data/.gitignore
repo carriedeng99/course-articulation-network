@@ -1,0 +1,5 @@
+# Ignore everything in data/ except the sample folder
+*
+!.gitignore
+!sample/
+!sample/**

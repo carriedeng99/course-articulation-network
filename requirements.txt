@@ -1,0 +1,19 @@
+pandas>=2.0
+numpy>=1.24
+networkx>=3.0
+sentence-transformers>=3.0
+transformers>=4.40
+torch>=2.0
+bitsandbytes>=0.43
+pytorch-metric-learning>=2.3
+matplotlib>=3.7
+plotly>=5.18
+umap-learn>=0.5
+tqdm
+scikit-learn>=1.3
+# scraping
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+# IPEDS matching
+rapidfuzz>=3.0

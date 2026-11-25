@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+env/
+
+# Data — keep only the sample
+data/*
+!data/sample/
+!data/sample/**
+!data/.gitignore
+
+# Model outputs / checkpoints
+*.bin
+*.safetensors
+*.pt
+*.pth
+nj_finetuned/
+nj_ft_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
